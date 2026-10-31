@@ -1,0 +1,15 @@
+# Inactive template. Do NOT rename this to FUNDING.yml until you have
+# completed the provider's eligibility checks and verified that payouts work.
+# Uncomment only the provider you have actually activated.
+
+# GitHub Sponsors (requires approval and a supported payout region):
+# github: danvric
+
+# Ko-fi (requires a working PayPal or Stripe receiving account):
+# ko_fi: YOUR_KOFI_USERNAME
+
+# Buy Me a Coffee (requires a supported Stripe payout region):
+# buy_me_a_coffee: YOUR_BUYMEACOFFEE_USERNAME
+
+# Or a verified custom funding page:
+# custom: ["https://example.com/your-support-page"]
